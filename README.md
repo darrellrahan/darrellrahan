@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Darrell</h1>
 <h3 align="center">A passionate frontend developer from Bandung, Indonesia.</h3>
 
+- 🖥️ See my portfolio at <a target="_blank" rel="noreferrer" href='https://darrellrahan.vercel.app/'>darrellrahan.vercel.app</a>
 - 👯 I’m looking to collaborate on **web project**
-
 - 📫 How to reach me **drafa0609@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
