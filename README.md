@@ -2,8 +2,7 @@
 <h3 align="center">A dedicated frontend developer from Bandung, Indonesia.</h3>
 
 - 🖥️ See my portfolio at <a target="_blank" rel="noreferrer" href='https://darrellrahan.vercel.app/'>darrellrahan.vercel.app</a>
-- 👯 I’m looking to collaborate on **web project**
-- 📫 How to reach me <br/> Gmail: **drafa0609@gmail.com** <br/> Linkedin: <a href="https://www.linkedin.com/in/darrellrahan">darrellrahan</a>
+- 📫 How to reach me <br/> Gmail: drafa0609@gmail.com <br/> Linkedin: <a href="https://www.linkedin.com/in/darrellrahan">darrellrahan</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
